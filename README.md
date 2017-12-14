@@ -76,6 +76,8 @@ To run the game, command line arguments are required. -r is the parameter for ro
 
 For example, `./minesweeper -m 15 -c 10 -r 10` means start the game with a board of 10 rows, 10 columns that has 15 mines.
 
-For input that includes 2 numbers, insert a space between 2 numbers.
+For input that includes 2 numbers, insert a space between 2 numbers. For example: row, column? 3 5
 
-For example: row, column? 3 5
+## Labs - miscellaneous
+
+These labs are used to aid learning concepts of programming in C++
